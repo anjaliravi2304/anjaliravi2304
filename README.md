@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @anjaliravi2304
-- 👀 I’m interested in ...Software Development
-- 🌱 I’m currently pursuing ...BTech Final year
-- 📫 How to reach me ...ravianjali2004@gmail.com
+- 👀 I’m interested in... Software Development
+- 🌱 I’m currently pursuing... BTech Final year
+- 📫 How to reach me... ravianjali2004@gmail.com
 
 
 <!---
